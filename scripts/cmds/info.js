@@ -16,20 +16,20 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ArYanInfo = {
-				Botname: '⇛⌘ AZIM HUNTER 𝐕 𝟐.𝟎 ⌘⇚',
-				Prefix: '.',
-				Owner: 'AZIM HUNTER',
-				Age: '18+',
+				Botname: '⇛⌘ Nezuko kamado 𝐕 𝟐.𝟎 ⌘⇚',
+				Prefix: '-',
+				Owner: 'anTik',
+				Age: '17+',
 				Tiktok: 'NONE,
 				Whatsapp: 'NOT SHARE',
-				Bio: '⎯⃝"🌻আ্ঁই্ঁছি্ঁরে্ঁ নে্ঁকা্ঁমু্ঁ ক্ঁর্ঁতে্ঁ 😼🙄🌺⎯͢⎯⃝🩷🐰',
+				Bio: '𝘽𝙚𝙞𝙣𝙜 𝙖𝙡𝙤𝙣𝙚 𝙞𝙨 𝙗𝙚𝙩𝙩𝙚𝙧 𝙩𝙝𝙖𝙣 𝙗𝙚𝙞𝙣𝙜 𝙬𝙞𝙩𝙝 𝙩𝙝𝙚 𝙬𝙧𝙤𝙣𝙜 𝙥𝙚𝙤𝙥𝙡𝙚👤❌',
 				Relationship: 'SINGLE',
-				Messenger: 'https://www.facebook.com/tmmm.e.mndam.je.mri.m',
+				Messenger: 'https://www.facebook.com/antik404',
 				Instagram: 'NONE',
-				Grouplink: 'https://m.me/j/Abbc61JOJV6zfuHs/'
+				Grouplink: 'https://m.me/j/AbbjIK6AY4owimjD/'
 			};
 
-			const ArYan = 'https://i.imgur.com/LN1oW23.jpeg';
+			const ArYan = 'https://bit.ly/3CFRsur';
 			const tmpFolderPath = path.join(__dirname, 'tmp');
 
 			if (!fs.existsSync(tmpFolderPath)) {
